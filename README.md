@@ -3,7 +3,7 @@
 Explain what this app does and why here. 
 
 ## See it live and in action 📺
-[![Tutorial](https://i.imgur.com/PDTXIon.png)]([(https://www.youtube.com/watch?v=nmTMz8IXHbA)] 'Tutorial')
+
 
 # Startup 🚀
 1. Get your ==Watson Discovery== credentials from your WD Premium instance. 
